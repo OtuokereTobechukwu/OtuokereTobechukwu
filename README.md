@@ -1,7 +1,6 @@
 ### Hey there! It's me Toby. 👋
 #### Data Analyst | Pyvangelist | Python Advocate
 
-[![HitCount](http://hits.dwyl.com/otuokeretobechukwu/otuokeretobechukwu.svg)](http://hits.dwyl.com/otuokeretobechukwu/otuokeretobechukwu)
 
 ##### Gists about me.
 
