@@ -6,11 +6,11 @@
 
 - 🔭 I am a meticulous Data analyst/scientist who is more inclined to write code. 
 
-- 🌱 I’m currently learning Django(REST) and streamlit to create data visuals in real time.
+- 🌱 Lately, I've been transitioning into Product Management
 
-- 👯 I’m looking to work and learn in a very challenging environment.
+- 👯 I’m always looking to work and learn in very challenging environments.
 
-- 👯 I’m looking to collaborate on Django, Data Analysis & Machine learning Projects. 
+- 👯 I’m looking to collaborate on Product Research, Data Analytics & Machine learning Projects. 
 
 - 📫 How to reach me: <a href="mailto:otuokeretobechukwu@outlook.com">Let's have a conversation</a>
 
