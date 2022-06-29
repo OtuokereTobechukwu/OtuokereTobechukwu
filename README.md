@@ -4,7 +4,7 @@
 
 ##### Gists about me.
 
-- 🔭 I am a meticulous Data analyst/scientist who is more inclined to write code. 
+- 🔭 I am a meticulous Data analyst/scientist who is more inclined to write code and build great products. 
 
 - 🌱 Lately, I've been transitioning into Product Management
 
