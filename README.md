@@ -1,5 +1,5 @@
 ### Hey there! It's me Toby. 👋
-#### Data Analyst | Product | Pyvangelist
+#### Data | Product | Process
 
 
 ##### Gists about me.
